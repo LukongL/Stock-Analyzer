@@ -38,35 +38,35 @@ Usage
 		
 Explanation
 
-Imports:
-import java.util.ArrayList; - Importing the ArrayList class for handling dynamic lists.
+	Imports:
+	import java.util.ArrayList; - Importing the ArrayList class for handling dynamic lists.
+	
+	Class Definition:
+	public class StockAnalyzer { - Defining the StockAnalyzer class.
+	
+	Method: calculateAveragePrice:
+	Takes an array of stock prices as input and calculates the average price.
+	
+	Method: findMaximumPrice:
+	Takes an array of stock prices as input and finds the maximum price.
+	
+	Method: countOccurrences:
+	Takes an array of stock prices and a target price as input, returning the count of occurrences of the target price.
 
-Class Definition:
-public class StockAnalyzer { - Defining the StockAnalyzer class.
-
-Method: calculateAveragePrice:
-Takes an array of stock prices as input and calculates the average price.
-
-Method: findMaximumPrice:
-Takes an array of stock prices as input and finds the maximum price.
-
-Method: countOccurrences:
-Takes an array of stock prices and a target price as input, returning the count of occurrences of the target price.
-
-Method: computeCumulativeSum:
-Takes an ArrayList of stock prices as input and returns a new ArrayList with cumulative sums at each position.
+	Method: computeCumulativeSum:
+	Takes an ArrayList of stock prices as input and returns a new ArrayList with cumulative sums at each position.
 
 Main Method:
 
-Initializes sample data.
-
-Demonstrates the usage of the above methods by calling them and printing their results.
+	Initializes sample data.
+	
+	Demonstrates the usage of the above methods by calling them and printing their results.
 
 License
 
-This project is licensed under the MIT License.
+	This project is licensed under the MIT License.
 
 Author
 
-Liliane Lukong - liliane.haniel@gmail.com
+	Liliane Lukong - liliane.haniel@gmail.com
 
